@@ -4,3 +4,12 @@ ini adalah repository pertama saya
 - NIM : 264107020231
 - Kelas : TI - 1F
 - Absen : 30
+
+Hasil Uji Studi Kasus 2 oleh aufaril
+| No | Jenis | Dokumen | Juara/Dana | Output       | Sesuai? |
+|----|-------|---------|------------|--------------|---------|
+| 1  | 4	 | 4	   | 1	        |  Berhak      | Ya	     |
+| 2  | 1	 | 3	   | 2	        | tidak Berhak | Ya	     |
+| 3  | 3	 | 1	   | 3	        | tidak Berhak | Ya	     |
+| 4  | 1	 | 4	   | lolos	    |  Berhak      | Ya	     |
+P = 30
