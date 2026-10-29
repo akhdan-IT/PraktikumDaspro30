@@ -1,3 +1,5 @@
+//Batas pengulangan : 8 + (P mod 5) = 8, nilai minimal = 55 + (P mod 11) = 63
+
 package pertemuan9;
 
 import java.util.Scanner;
