@@ -8,7 +8,7 @@ public class SiakadFor30 {
         
         double nilai, tertinggi=0, terendah=100;
 
-        for (int i=1; i<=10; i++) {
+        for (int i=1; i<=8; i++) {
             System.out.println("Masukkan nilai mahasiswa ke-"+i+" : ");
             nilai = sc.nextDouble();
             if (nilai>tertinggi) {
