@@ -1,3 +1,5 @@
+//15 + (P mod 10) = 15 (pertanyaan no 3 "19" diganti dengan "15" karena P = 30, maka 15 + (30 mod 10) = 15 + 0 = 15)
+
 package pertemuan9;
 
 import java.util.Scanner;
